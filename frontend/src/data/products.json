@@ -1,0 +1,365 @@
+[
+  {
+    "id": "1",
+    "title": "คลังน้ำตาล1 โกดัง1",
+    "productImg": "1.jpg",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio."
+    },
+    "amenities": [
+      "ที่จอดรถ",
+      "เครื่องปรับอากาศ"
+    ],
+    "size": 2000,
+
+
+
+
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "price": 159,
+    "priceRange": ["Medium"],
+    "discount": 5,
+    "country": true,
+    "district": "Mission District Area",
+    "properties": 2,
+    "featured": true,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 3,
+    "saleCount": 5,
+    "category": ["buying", "renting"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "ศรีราชา ชลบุรี",
+    
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 3450,
+      "propertyStatus": "For Sale",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 1992
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Dishwasher"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Office Villa", "Luxary Home"]
+  },
+  {
+    "id": "1",
+    "title": "คลังน้ำตาล1 โกดัง2",
+    "productImg": "1.jpg",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio."
+    },
+    "amenities": [
+      "ที่จอดรถ",
+      "เครื่องปรับอากาศ"
+    ],
+    "size": 2000,
+
+
+
+
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "price": 159,
+    "priceRange": ["Medium"],
+    "discount": 5,
+    "country": true,
+    "district": "Mission District Area",
+    "properties": 2,
+    "featured": true,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 3,
+    "saleCount": 5,
+    "category": ["buying", "renting"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "ศรีราชา ชลบุรี",
+    
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 3450,
+      "propertyStatus": "For Sale",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 1992
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Dishwasher"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Office Villa", "Luxary Home"]
+  },
+  {
+    "id": "1",
+    "title": "คลังน้ำตาล1 โกดัง3",
+    "productImg": "1.jpg",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio."
+    },
+    "amenities": [
+      "ที่จอดรถ",
+      "เครื่องปรับอากาศ"
+    ],
+    "size": 2000,
+
+
+
+
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "price": 159,
+    "priceRange": ["Medium"],
+    "discount": 5,
+    "country": true,
+    "district": "Mission District Area",
+    "properties": 2,
+    "featured": true,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 3,
+    "saleCount": 5,
+    "category": ["buying", "renting"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "May 19, 2021",
+    "comments": 35,
+    "locantion": "ศรีราชา ชลบุรี",
+    
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 3450,
+      "propertyStatus": "For Sale",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 1992
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Dishwasher"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Office Villa", "Luxary Home"]
+  }
+]
